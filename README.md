@@ -11,7 +11,7 @@ Driver for TCA9535/TCA9555 remote 16-bit I/O expanders for I2C-bus.
 ## Installation
 
 ```sh
-idf.py add-dependency "esp-idf-lib/tca95x5^1.0.0
+idf.py add-dependency esp-idf-lib/tca95x5^1.0.0
 ```
 
 ## Support
