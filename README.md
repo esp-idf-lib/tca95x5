@@ -1,5 +1,9 @@
 # esp-idf-lib/tca95x5
 
+[![Build examples](https://github.com/esp-idf-lib/tca95x5/actions/workflows//build.yml/badge.svg)](https://github.com/esp-idf-lib/tca95x5/actions/workflows//build.yml)
+[![Build docs](https://github.com/esp-idf-lib/tca95x5/actions/workflows//build-docs.yml/badge.svg)](https://github.com/esp-idf-lib/tca95x5/actions/workflows//build-docs.yml)
+[![Validation](https://github.com/esp-idf-lib/tca95x5/actions/workflows//validate-component.yml/badge.svg)](https://github.com/esp-idf-lib/tca95x5/actions/workflows//validate-component.yml)
+
 Driver for TCA9535/TCA9555 remote 16-bit I/O expanders for I2C-bus.
 
 * [Documentation](https://esp-idf-lib.github.io/tca95x5/)
@@ -11,7 +15,7 @@ Driver for TCA9535/TCA9555 remote 16-bit I/O expanders for I2C-bus.
 ## Installation
 
 ```sh
-idf.py add-dependency esp-idf-lib/tca95x5^1.0.0
+idf.py add-dependency esp-idf-lib/tca95x5
 ```
 
 ## Support
