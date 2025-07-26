@@ -1,5 +1,5 @@
 ---
-version: 1.0.3
+version: 1.0.4
 description: Driver for TCA9535/TCA9555 remote 16-bit I/O expanders for I2C-bus
 license: BSD-3
 targets:
