@@ -1,7 +1,7 @@
 ---
 version: 1.0.8
 description: Driver for TCA9535/TCA9555 remote 16-bit I/O expanders for I2C-bus
-license: BSD-3
+license: BSD-3-Clause
 dependencies:
   esp-idf-lib/i2cdev:
     version: "*"
